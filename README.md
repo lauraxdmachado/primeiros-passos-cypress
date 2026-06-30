@@ -32,7 +32,7 @@ O usuário deve acessar o sistema com sucesso.
 
 ___
 
-### Login com Fall
+### Login com Fail
 
 #### Objetivo: 
 Validar o comportamento do sistema ao receber credenciais inválidas.
