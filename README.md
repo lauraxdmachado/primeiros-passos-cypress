@@ -61,13 +61,13 @@ ___
 
 cypress/<br>
 ├── e2e/<br>
-│   ├── login.spec.cy.js<br>
-│   └── newFile.js<br>
+│     ├── login.spec.cy.js<br>
+│     └── newFile.js<br>
 ├── fixtures/<br>
-|   ├── userdata.json<br>
+│     ├── userdata.json<br>
 ├── support/<br>
-|   ├── commands.js<br>
-|   └── e2e.js<br>
+│     ├── commands.js<br>
+│     └── e2e.js<br>
 cypress.config.js<br>
 package-lock.json<br>
 package.json<br>
