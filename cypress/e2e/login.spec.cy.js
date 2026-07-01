@@ -1,4 +1,4 @@
-import userData from '../fixtures/users/userData.json'
+import userData from '../fixtures/userdata.json'
 
 describe('Orange HRM Tests', () => {
 
@@ -12,7 +12,7 @@ describe('Orange HRM Tests', () => {
   }
 
   it('Login - Success', () => {
-    cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+    cy.visit('/auth/login')
    cy.get(selectorsList.usernameField).type('Admin')
    cy.get(selectorsList.passwordField).type('admin123')
    cy.get(selectorsList.loginButton).click()
