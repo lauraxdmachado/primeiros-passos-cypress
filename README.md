@@ -59,14 +59,14 @@ ___
 
 ## Estrutura do Projeto
 
-cypress/
-├── e2e/
-│   ├── login.spec.cy.js
-│   └── newFile.js
-├── support/
-├── fixtures/
-cypress.config.js
-package.json
-README.md
+cypress/<br>
+├── e2e/<br>
+│   ├── login.spec.cy.js<br>
+│   └── newFile.js<br>
+├── support/<br>
+├── fixtures/<br>
+cypress.config.js<br>
+package.json<br>
+README.md<br>
 
 
